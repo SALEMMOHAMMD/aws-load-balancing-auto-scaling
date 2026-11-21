@@ -94,7 +94,7 @@ The Auto Scaling configuration was designed to launch additional EC2 instances w
 
 The web application accessed through the Application Load Balancer DNS name.
 
-![Web Application](1-Web-App.png)
+![Web Application](1-Web App.png)
 
 ### 4.2 Auto Scaling
 
