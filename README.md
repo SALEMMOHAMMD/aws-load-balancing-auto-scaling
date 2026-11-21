@@ -88,27 +88,8 @@ Monitored CPU utilization through Amazon CloudWatch and observed the scaling ala
 
 The Auto Scaling configuration was designed to launch additional EC2 instances when application demand increased, up to the configured maximum capacity of six instances.
 
-## 4. Project Screenshots
 
-### 4.1 Web Application
-
-The web application accessed through the Application Load Balancer DNS name.
-
-![Web Application](1-Web App.png)
-
-### 4.2 Auto Scaling
-
-Screenshot showing the Auto Scaling configuration and EC2 scaling environment.
-
-![Auto Scaling](2-Auto-Scaling.png)
-
-### 4.3 AWS Architecture
-
-The architecture diagram illustrates the infrastructure components, including the Load Balancer, Target Group, EC2 instances, and Auto Scaling configuration.
-
-![AWS Architecture](3-Architecture.png)
-
-## 5. Key Skills Gained
+## 4. Key Skills Gained
 
 - Creating and managing Amazon Machine Images (AMI).
 - Configuring Application Load Balancers.
@@ -119,7 +100,7 @@ The architecture diagram illustrates the infrastructure components, including th
 - Understanding High Availability and Scalability.
 - Distributing application traffic across multiple EC2 instances.
 
-## 6. Conclusion
+## 5. Conclusion
 
 Successfully completed an AWS hands-on lab focused on Load Balancing and Auto Scaling.
 
